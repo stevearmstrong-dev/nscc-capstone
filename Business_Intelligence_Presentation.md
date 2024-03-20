@@ -2,7 +2,8 @@
 
 ## Guidelines
 
-https://github.com/stevearmstrong-dev/nscc-capstone/blob/0f322dc5571b401acf92e061467aac3e0116be4d/diagrams/Mindmap_Business_Intelligence_Presentation.png
+![Mindmap Business Intelligence Presentation](https://raw.githubusercontent.com/stevearmstrong-dev/nscc-capstone/docs/readme-updates/diagrams/Mindmap_Business_Intelligence_Presentation.png)
+
 
 ## Introduction
 - Overview of the business intelligence topic
