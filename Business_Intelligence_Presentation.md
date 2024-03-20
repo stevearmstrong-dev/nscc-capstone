@@ -29,12 +29,18 @@
 ## Implementation Plan
 - The presentation will be developed over a period of 4 weeks
 - Required resources include Python, Jupyter Notebook, and the necessary libraries (numpy, pandas, scikit-learn, seaborn, matplotlib).
-- Rehearsals and feedback sessions will be conducted with members of the Prediction Team in the Teams Channel and in person,to ensure its clarity and impact.
+- Self critique through mock presentations will be made along with discussions with Team Prediction on the teams channel and during in person classes. 
 
 ## Conclusion
 - The presentation aims to showcase the potential of the Random Forest Classifier in enhancing CVD risk prediction and supporting data-driven decision-making in healthcare.
 - The audience (students) will be encouraged to explore the application of this technique in their own healthcare business intelligence projects and consider its potential impact on patient outcomes and organizational efficiency.
 
 ## Appendices
-- The presentation will include references to relevant literature on the Random Forest Classifier and its applications in healthcare business intelligence.
-- Additional resources, such as code repositories and recommended readings, will be provided for audience members interested in further exploring this technique and its potential applications.
+- https://www.frontiersin.org/articles/10.3389/fmed.2023.1150933/full#tab1
+- https://docs.python.org/3/
+- https://www.kaggle.com/
+- https://numpy.org/devdocs/user/absolute_beginners.html
+- https://numpy.org/devdocs/user/index.html#user
+- https://scikit-learn.org/stable/user_guide.html
+- https://matplotlib.org/stable/index.html
+- https://seaborn.pydata.org/tutorial/introduction.html
