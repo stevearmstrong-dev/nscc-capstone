@@ -19,7 +19,7 @@
 - Steve has 3 years of experience in the IT Industry having worked at companies like Infosys, Telus and Postilize and held roles of Senior Systems Engineer, API Gateway Developer and Full Stack Developer. His Bachelors in Engineering and Graduate Certificate with Honours in Full Stack Application Development from Nova Scotia Community College has helped him develop his problem solving skills. He is currently pursuing the Business Intelligence Analytics Program, closely mentored by his Professor, Patrick Dolinger, a legend with decades of experience in the Data Analytics, Business Intelligence and Data Science space.
 
 ## Sample Data Selection
-- The data was sourced from https://www.frontiersin.org/articles/10.3389/fmed.2023.1150933/full#tab1
+- The data was sourced from https://www.kaggle.com/datasets/alphiree/cardiovascular-diseases-risk-prediction-dataset
 - The dataset is highly relevant as it covers key risk factors such as age, gender, blood pressure, cholesterol levels, and lifestyle factors.
 
 ## Technical Technique Demonstration
@@ -37,9 +37,8 @@
 - The audience (students) will be encouraged to consider adopting this technique in their own CVD risk prediction projects and explore further enhancements.
 
 ## Appendices
-- https://www.frontiersin.org/articles/10.3389/fmed.2023.1150933/full#tab1
+- https://www.kaggle.com/datasets/alphiree/cardiovascular-diseases-risk-prediction-dataset
 - https://docs.python.org/3/
-- https://www.kaggle.com/
 - https://numpy.org/devdocs/user/absolute_beginners.html
 - https://numpy.org/devdocs/user/index.html#user
 - https://scikit-learn.org/stable/user_guide.html
