@@ -18,7 +18,7 @@
 
 ## Data Selection
 - The dataset chosen for this presentation is a comprehensive collection of variables associated with CVD risk factors, including demographic information, health indicators, and lifestyle factors.
-- The data was sourced from https://www.frontiersin.org/articles/10.3389/fmed.2023.1150933/full#tab1
+- The data was sourced from https://www.kaggle.com/datasets/alphiree/cardiovascular-diseases-risk-prediction-dataset
 - The selected dataset is highly relevant to the healthcare domain as it encompasses a wide range of factors contributing to CVD risk, allowing for a comprehensive analysis and demonstration of the Random Forest Classifier's capabilities.
 
 ## Business Intelligence Techniques Demonstration
@@ -36,9 +36,8 @@
 - The audience (students) will be encouraged to explore the application of this technique in their own healthcare business intelligence projects and consider its potential impact on patient outcomes and organizational efficiency.
 
 ## Appendices
-- https://www.frontiersin.org/articles/10.3389/fmed.2023.1150933/full#tab1
+- https://www.kaggle.com/datasets/alphiree/cardiovascular-diseases-risk-prediction-dataset
 - https://docs.python.org/3/
-- https://www.kaggle.com/
 - https://numpy.org/devdocs/user/absolute_beginners.html
 - https://numpy.org/devdocs/user/index.html#user
 - https://scikit-learn.org/stable/user_guide.html
