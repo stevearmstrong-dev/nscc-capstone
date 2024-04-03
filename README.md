@@ -44,3 +44,18 @@ The dataset used in this project is comprehensive, covering a wide range of vari
 - **FriedPotato_Consumption**: Quantity of fried potato consumption.
 
 This dataset provides a holistic view of factors that could influence the risk of developing cardiovascular diseases, allowing for detailed analysis and modeling to predict CVD risk.
+
+
+### Model Building and Training
+
+The predictive model for cardiovascular disease risk prediction was constructed using the RandomForestClassifier from sklearn, leveraging its capabilities for handling complex datasets with a mix of categorical and numerical data.
+
+#### Model Configuration
+- **Algorithm**: RandomForestClassifier
+- **Key Parameter**: `n_estimators` was set to specify the number of trees in the forest, chosen based on preliminary validation to balance between overfitting and computational efficiency.
+
+#### Training Process
+- **Training Data**: The model was trained using `X_train` for the input features, encompassing a diverse range of variables such as age, gender, blood pressure, and cholesterol levels.
+- **Target Variable**: `y_train` represented the presence or absence of cardiovascular disease, serving as the output parameter for the model.
+- **Methodology**: Employed a robust training methodology to ensure the model accurately captures the underlying patterns without overfitting the training data.
+
