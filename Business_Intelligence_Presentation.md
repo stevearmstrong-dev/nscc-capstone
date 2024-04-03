@@ -5,8 +5,6 @@
 ![Mindmap Business Intelligence Presentation](https://raw.githubusercontent.com/stevearmstrong-dev/nscc-capstone/docs/readme-updates/diagrams/Mindmap_Business_Intelligence_Presentation.png)
 
 
-# Technical Technique Presentation Proposal
-
 ## Introduction
 - The presentation will focus on utilizing the Random Forest Classifier for predicting cardiovascular disease (CVD) risk, a critical topic in the field of healthcare business intelligence.
 - Data-driven decision-making is essential for healthcare organizations to allocate resources effectively, improve patient outcomes, and reduce healthcare costs.
