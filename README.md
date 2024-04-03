@@ -140,3 +140,5 @@ The notebook includes detailed comments and visualizations to help you understan
 ## Contact
 For any questions or discussions, feel free to contact me at [steve@stevearmstrong.org](mailto:steve@stevearmstrong.org).
 
+### License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
