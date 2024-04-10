@@ -95,32 +95,19 @@ The RandomForestClassifier was chosen for its efficacy in classification tasks, 
 
 ## Report Breakdown:
 
-### Class 0 (Negative Class):
-- **Precision**: 92% of instances predicted as class 0 are actually class 0.
-- **Recall**: The model correctly identifies 100% of all actual class 0 instances.
-- **F1-Score**: 96%, indicating a very high balance between precision and recall for class 0.
-- **Support**: There are 85,134 actual instances of class 0 in the dataset.
-
+### Class 0 (Negative Class)
+- **Precision**: 92% precision means that when the model predicts an instance as Class 0 (no cardiovascular disease risk), it is correct 92% of the time.
+- **Recall**: 100% recall for Class 0 means the model successfully identifies all actual instances of Class 0 in the dataset. This is an ideal scenario for recall, indicating no Class 0 instances were mistakenly labeled as Class 1 by the model.
+- **F1-Score**: The F1-score is a harmonic mean of precision and recall, sitting at 96% for Class 0. This high score suggests a very balanced and effective model performance for this class, as it skillfully balances both precision and recall.
+- **Support**: Indicates the total number of actual instances of Class 0 in the dataset, which is 85,134. This is the number the model was tested against for its predictions.
 ### Class 1 (Positive Class):
-- **Precision**: 48% of instances predicted as class 1 are actually class 1.
-- **Recall**: Only 2% of the actual class 1 instances were correctly identified by the model.
-- **F1-Score**: 5%, indicating a poor balance between precision and recall for class 1.
-- **Support**: There are 7,523 actual instances of class 1 in the dataset.
+- **Precision**: 48% precision for Class 1 means that less than half of the instances predicted as Class 1 (indicating a risk of cardiovascular disease) are correctly identified. This low precision indicates a significant number of false positives, where the model incorrectly flags risk where there is none.
+- **Recall**: At 2% recall, the model only correctly identifies 2% of all actual Class 1 instances. This extremely low recall indicates the model is missing almost all true Class 1 instances, failing to flag them as at risk.
+- **F1-Score**: The F1-score for Class 1 is at 5%, reflecting the poor balance between precision and recall for this class. It suggests the model is ineffective at predicting cardiovascular disease risk accurately for those who have it.
+- **Support**: This is the total number of actual instances of Class 1 in the dataset, amounting to 7,523. It's the benchmark for evaluating how well the model predicts cardiovascular disease risk.
 
 ### Accuracy:
 - Overall, the model correctly predicted 92% of all cases. However, this metric can be misleading for imbalanced classes.
-
-### Macro Avg:
-- **Precision**: Average precision across both classes without considering class imbalance is 70%.
-- **Recall**: Average recall across both classes is 51%.
-- **F1-Score**: Average F1 score is 50%.
-
-### Weighted Avg:
-- Accounts for class imbalance by weighting the average based on the number of instances in each class.
-- **Precision**: 88% considering class imbalance.
-- **Recall**: Same as accuracy, 92%.
-- **F1-Score**: 88%, considering class imbalance.
-
 
 ## Interpretation:
 
